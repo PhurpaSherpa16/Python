@@ -1,2 +1,2 @@
 # Python
-python class practise
+This is the python crash course
